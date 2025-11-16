@@ -1,2 +1,2 @@
 # first-repo
-This is for assignment 3, initializing gits
+This is for the final project for week four, group project
